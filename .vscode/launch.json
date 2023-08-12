@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/Workspace/BFS shortest path",
-      "program": "e:/Workspace/BFS shortest path/build/Debug/outDebug",
+      "cwd": "e:/Github_projects/BFS shortest path",
+      "program": "e:/Github_projects/BFS shortest path/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
