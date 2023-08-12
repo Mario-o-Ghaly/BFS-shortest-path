@@ -94,5 +94,7 @@ int main() {
         }
     }
 
+    system("pause"); // This is Windows-specific
+
     return 0;
 }
